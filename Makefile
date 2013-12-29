@@ -18,7 +18,7 @@ CP		= cp
 RM		= rm
 LS		= ls
 
-PROGS		= Menu tipo\ de\ janelas\ a\ escolher/
+PROGS		= Menu tipo de janelas a escolher
 
 all: comp link
 
