@@ -17,8 +17,7 @@ CC		= gcc
 CP		= cp
 RM		= rm
 LS		= ls
-
-PROGS		= Menu tipo_de_janelas_a_escolher
+PROGS		= projecto
 
 all: comp link
 
